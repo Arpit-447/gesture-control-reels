@@ -33,7 +33,7 @@ Tech Used
 
 🎥 Demo
 
-./Demo.mp4
+[Play Demo Video](./Demo.mp4)
 
 💡 Highlights
 
