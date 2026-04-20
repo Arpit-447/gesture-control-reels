@@ -38,7 +38,6 @@ Tech Used
 💡 Highlights
 
 * Gesture smoothing used
-* Delay system added
 * Real-time control
 
 👨‍💻 Author
